@@ -1,5 +1,5 @@
 {
-    "name": "SelectFile64",
+    "name": "Make Beeps Example 64",
     "description": "",
     "dependencies": {
         "device": "*"
